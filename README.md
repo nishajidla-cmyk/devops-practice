@@ -53,7 +53,7 @@ terraform apply
 2. Get the public IP of EC2
 3. Open in browser:
 
-http://<your-ec2-public-ip>
+http://44.200.163.51
 
 ## Author
 Nisha Jidla
