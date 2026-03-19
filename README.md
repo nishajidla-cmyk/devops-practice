@@ -12,10 +12,11 @@ This repository contains my DevOps practice work including Terraform, Shell scri
 ## Terraform Project
 Using Terraform I practiced Infrastructure as Code concepts and created AWS infrastructure components.
 
-## AWS Architecture
+## 🏗️ AWS Architecture
 ![AWS Architecture](aws-terraform-architecture.png)
+This architecture demonstrates a secure and scalable AWS infrastructure using Terraform, including public and private subnets, NAT Gateway, EC2 instances, and load balancing.
 
-## Files in this Repository
+## 📁 Files in this Repository
 terraform/ - Terraform configuration files  
 install.sh - installation automation script  
 script.sh - shell scripting practice  
@@ -44,6 +45,14 @@ This project provisions a complete AWS environment using Terraform, following be
 terraform init
 terraform plan
 terraform apply
+
+## 🚀 How to Test
+
+1. Run terraform apply
+2. Get the public IP of EC2
+3. Open in browser:
+
+http://<your-ec2-public-ip>
 
 ## Author
 Nisha Jidla
