@@ -13,7 +13,7 @@ This repository contains my DevOps practice work including Terraform, Shell scri
 Using Terraform I practiced Infrastructure as Code concepts and created AWS infrastructure components.
 
 ## AWS Architecture
-![AWS Architecture] (aws-terraform-architecture.png)
+![AWS Architecture](aws-terraform-architecture.png)
 
 ## Files in this Repository
 terraform/ - Terraform configuration files  
@@ -41,8 +41,6 @@ This project provisions a complete AWS environment using Terraform, following be
 ---
 
 ## ⚙️ How to Deploy
-
-```bash
 terraform init
 terraform plan
 terraform apply
