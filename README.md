@@ -15,6 +15,7 @@ Using Terraform I practiced Infrastructure as Code concepts and created AWS infr
 ## 🏗️ AWS Architecture
 ![AWS Architecture](aws-terraform-architecture.png)
 This architecture demonstrates a secure and scalable AWS infrastructure using Terraform, including public and private subnets, NAT Gateway, EC2 instances, and load balancing.
+This architecture includes VPC, public and private subnets, route tables, security groups, NAT Gateway, EC2 instances, and load balancing to ensure scalability and security.
 
 ## 📁 Files in this Repository
 terraform/ - Terraform configuration files  
